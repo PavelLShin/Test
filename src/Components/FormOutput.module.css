@@ -1,0 +1,41 @@
+.item {
+  margin: 35px 20%;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 2px solid #555;
+  color: #ffffff;
+  background-color: rgb(22, 2, 48);
+  width: 60%;
+  height: 100px;
+}
+
+.items {
+  margin: 35px 20%;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 2px solid #000000;
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  width: 60%;
+  height: 100px;
+}
+
+.itemText {
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  margin-left: 10px;
+  width: 30%;
+
+  cursor: pointer;
+  font-size: 1.5rem;
+  background-color: beige;
+  border: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: rgb(240, 240, 155);
+}
